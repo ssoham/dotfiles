@@ -138,6 +138,7 @@ alias sb=seedbox
 alias mp4box=~/.gpac/MP4Box
 alias cz=chezmoi
 alias wopen=wsl-open
+alias aria2c="aria2c -j16 -s16 -x16 -c"
 # opam configuration
 #test -r /home/soham/.opam/opam-init/init.zsh && . /home/soham/.opam/opam-init/init.zsh > /dev/null 2> /dev/null || true
 #export PATH=$PATH:/Users/soham/.spicetify
